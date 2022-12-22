@@ -6,6 +6,7 @@ In December 2022, I completed Alterra Academy's immersion program and became a Q
 ## 🛠️ Language and Tools:
 
 ![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java)
+![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
