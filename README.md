@@ -18,7 +18,8 @@ In December 2022, I completed Alterra Academy's immersion program and became a Q
 ![apacheJmeter](https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![appium](https://img.shields.io/badge/appium-6428B4?style=for-the-badge&logo=appium&logoColor=white)
 
-
+## 📱 Social:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaekusuma)
 
 <p align="center">
 <a href="https://github.com/jaekusuma">
