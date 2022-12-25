@@ -1,7 +1,7 @@
 ## Summary
 ### Hi There 👋, I'm Jaelani Kusuma!
 
-In December 2022, I completed Alterra Academy's immersion program and became a Quality Assurance Engineer. I gained knowledge of manual and automated testing utilizing Java, SerenityBDD, Cucumber, Maven, Rest Assured, and Gherkin for mobile, web, and APIs. JMeter was used by me for performance testing as well. I use Trello as our primary team management tool when working on projects for immersive programs with the Scrum process.
+Even after working as an electronics technician for more than 6 years, my enthusiasm for the IT industry will not be quenched. I opted to alter occupations because I like the challenge of learning new things. until I began taking Alterra Academy's Immersive Program for Quality Assurance Engineer. I gained some knowledge about manual software testing from my own experience. And begin to develop it in this comprehensive program. Starting with API, Web, and mobile testing (manual and automated), I'll work on a number of projects to advance my training and sharpen my software testing abilities.
 
 ## 🛠️ Language and Tools:
 
