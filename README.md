@@ -8,6 +8,7 @@ Even after working as an electronics technician for more than 6 years, my enthus
 ![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java)
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![EclipseIDE](https://img.shields.io/badge/Eclipse%20Ide-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![vscode](https://img.shields.io/badge/visual%20studio%20code-5C2D91?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
