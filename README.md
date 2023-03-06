@@ -1,8 +1,6 @@
 ## Summary
 ### Hi There 👋, I'm Jaelani Kusuma!
 
-Even after working as an electronics technician for more than 6 years, my enthusiasm for the IT industry will not be quenched. I opted to alter occupations because I like the challenge of learning new things. until I began taking Alterra Academy's Immersive Program for Quality Assurance Engineer. I gained some knowledge about manual software testing from my own experience. And begin to develop it in this comprehensive program. Starting with API, Web, and mobile testing (manual and automated), I'll work on a number of projects to advance my training and sharpen my software testing abilities.
-
 ## 🛠️ Language and Tools:
 
 ![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java)
