@@ -1,5 +1,6 @@
 ## Summary
 ### Hi There 👋, I'm Jaelani Kusuma!
+### Work as Software QA, and have a hobby of making games. hopefully I can release my game to public LoL 
 
 ## 🛠️ Language and Tools:
 
